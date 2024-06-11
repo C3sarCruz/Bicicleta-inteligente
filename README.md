@@ -93,23 +93,22 @@ La arquitectura en Capas.
 
 []()
 
-Esta arquitectura es la escojida debido ya que se dibide en capas y cada una de ellas tiene una tarea en espesifico y pueden ser capas independientes, es decir cada capa puede estar diseñada para una tarea especifica y entre laas capas pueden tener comunicación a travez de una interfaz bien definida.
-Por ello se escogio esta arquitectura para el proyecto de la bicileta intelogente ya que se podra dividir en modulos independiente y tener comunicación entre ellos, es decir;
-En la primera capa llamada Modelo: Se define qué datos deben contener la aplicación. Si el estado de estos datos cambia, el modelo generalmente notificará a la vista (para que la pantalla pueda cambiar según sea necesario) y, a veces, el controlador (si se necesita una lógica diferente para controlar la vista actualizada).
-Es decir aquí entra el circuito con todos sus sensores ya que ellos nos proporcionaran la lectura del ambiente y la mostrara en la vista al usuario de una manera en la que el usuario pueda visualizarla estructrada y entendrible. Cada sensor mostrara lecturas diferentes como son; la temperatura, distancia, ubicación, velocidad entre otras mas y asi se creara la primera capa de modelo. En este modelo entra tambien la base de datos ya que en ella se guardaran todos los datos recolectados por los sensores y estos datos seran enviados a la vista.
-En la segunda capa llamada Vista: La vista define cómo se deben mostrar los datos de la aplicación. En esta capa se mostrara en Dashboard que sera desarrollado para que pueda mostrar los datos que los sensores leyeron del ambiente al cual seran expuestos, en esta capa se mostraran todos los datos estructurados que seran llamados de la base de datos para que puedan ser leidos de forma por el usuario y puedan entenderlos.
-La tercera capa llamada Controlador: El controlador contiene una lógica que actualiza el modelo y/o vista en respuesta a las entradas de los usuarios de la aplicación. En este se conectan las capas anteriores ya que cada una tiene una tarea diferente pero que conjuntas forman en producto, en el controlador creara que la funcionalidad de cada capa formen en sistema. Esta en la comunicación que se tendra mediante red mqtt facilita a los desarrolladores el cifrado de mensajes y la autenticación de dispositivos y usuarios mediante protocolos de autenticación modernos.
+* Esta arquitectura es la escojida debido ya que se dibide en capas y cada una de ellas tiene una tarea en espesifico y pueden ser capas independientes, es decir cada capa puede estar diseñada para una tarea especifica y entre laas capas pueden tener comunicación a travez de una interfaz bien definida.
+* Por ello se escogio esta arquitectura para el proyecto de la bicileta intelogente ya que se podra dividir en modulos independiente y tener comunicación entre ellos, es decir;
+* En la primera capa llamada Modelo: Se define qué datos deben contener la aplicación. Si el estado de estos datos cambia, el modelo generalmente notificará a la vista (para que la pantalla pueda cambiar según sea necesario) y, a veces, el controlador (si se necesita una lógica diferente para controlar la vista actualizada).
+* Es decir aquí entra el circuito con todos sus sensores ya que ellos nos proporcionaran la lectura del ambiente y la mostrara en la vista al usuario de una manera en la que el usuario pueda visualizarla estructrada y entendrible. Cada sensor mostrara lecturas diferentes como son; la temperatura, distancia, ubicación, velocidad entre otras mas y asi se creara la primera capa de modelo. En este modelo entra tambien la base de datos ya que en ella se guardaran todos los datos recolectados por los sensores y estos datos seran enviados a la vista.
+* En la segunda capa llamada Vista: La vista define cómo se deben mostrar los datos de la aplicación. En esta capa se mostrara en Dashboard que sera desarrollado para que pueda mostrar los datos que los sensores leyeron del ambiente al cual seran expuestos, en esta capa se mostraran todos los datos estructurados que seran llamados de la base de datos para que puedan ser leidos de forma por el usuario y puedan entenderlos.
+* La tercera capa llamada Controlador: El controlador contiene una lógica que actualiza el modelo y/o vista en respuesta a las entradas de los usuarios de la aplicación. En este se conectan las capas anteriores ya que cada una tiene una tarea diferente pero que conjuntas forman en producto, en el controlador creara que la funcionalidad de cada capa formen en sistema. Esta en la comunicación que se tendra mediante red mqtt facilita a los desarrolladores el cifrado de mensajes y la autenticación de dispositivos y usuarios mediante protocolos de autenticación modernos.
 
 
 # Tablero Trello
-Sprint 1. Se genero el primer spring con la integración de la placa esp32 para poder agregar las funcionalidades del sensor ultrasónico, esta placa es provisional, ya que será sustituida por una Pantalla tactil ESP32.
- []()
 
- Sprint 2. El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo).
-[]()
-
-Sprint 3. Que tanto el dashboard como el circuito tengan comunicación para que puedan cumplir con su objetivo y la integracion de la pantalla inteligente.
-[]()
++ Sprint 1. Se genero el primer spring con la integración de la placa esp32 para poder agregar las funcionalidades del sensor ultrasónico, esta placa es provisional, ya que será sustituida por una Pantalla tactil ESP32.
++ []()
++ Sprint 2. El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo).
++ []()
++ Sprint 3. Que tanto el dashboard como el circuito tengan comunicación para que puedan cumplir con su objetivo y la integracion de la pantalla inteligente.
++ []()
 
 # Circuito diseñado para el proyecto completo
 En el siguiente circuito se muestra como estara diseñado nuestro circuito para la bicicleta inteligente, en el cual se muestran todos los sensores mencionados anteriormente que tendran como objetivo generar un producto de calidad y que pueda satisfacer las necesidades de nuestros usuarios ciclistas
@@ -126,8 +125,10 @@ Spring 1. Se agrego la funcionalidad del sensor ultrasónico y Buzzer con su led
 
 # Resultados esperados del proyecto completo
 Las bicicletas inteligentes, ofrecen una serie de resultados esperados para los ciclistas. A continuación, se presentan algunos de estos resultados:
-•	Optimización del rendimiento: Las bicicletas inteligentes está diseñada para ayudar a los ciclistas a optimizar su rendimiento. Esta bicicleta utiliza sensores y actuadores llamados dispositivos inteligentes esto para proporcionar una experiencia satisfactoria, permitiendo a los ciclistas entrenar.
-•	Datos en el Dashboard: La bicicleta inteligente contara con un panel en el cual se mostrarán los datos se los sensores. Es importante asegurarse de que el software que se va a utilizar sea compatible con la bicicleta inteligente seleccionada
+
+* Optimización del rendimiento: Las bicicletas inteligentes está diseñada para ayudar a los ciclistas a optimizar su rendimiento. Esta bicicleta utiliza sensores y actuadores llamados dispositivos inteligentes esto para proporcionar una experiencia satisfactoria, permitiendo a los ciclistas entrenar.
+* Datos en el Dashboard: La bicicleta inteligente contara con un panel en el cual se mostrarán los datos se los sensores. Es importante asegurarse de que el software que se va a utilizar sea compatible con la bicicleta inteligente seleccionada
+
 En resumen, las bicicletas inteligentes ofrecen la posibilidad de optimizar el rendimiento, entrenar y disfrutar de una experiencia. 
 
 
