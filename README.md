@@ -76,25 +76,15 @@ Version: VHDL 1.1.0
 
 # Historias de usuario:
 | Sprint  | No° Historia | Descripción |
-| :---         |     :---:      |          ---: |
-| 1   | HU1 - Desarrollo del Dashboard   | Yo como usuario  Activo – Bicicleta Inteligente Necesito que:
-El desarrollo del dashboard en el cual se visualize todas las actividades que se van a monitorear con la instalacion del circuito.
-1.	Los dias que aplique la actvidad de ciclismo, es necesario que en el dashboard se visualize el monitoreo de la actvididad fisica, como es la velocidad, distancia, pocision, movimiento, temperatura, apromididad y ubicación.
-2.	Es necesario que se registre la actividad diaria en un historial en el cual pueda acceder a ella y realizar un analisi del avance de la actividad fisica.
-   |
-| 2    | HU2 – Desarrollo del circuito      | Yo como usuario  Activo – Bicicleta Inteligente Necesito que:
-El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo).
-1.	La lectura de los sensores que tendra el circuito tendra que mandar esa lectura al dashboard en la cual se mostrara al usuario y se guardara como historial.
-2.	Es necesario realizar la coneccion del circuito y el desarrollo de codigo necesario para la fucionalidad.
-3.	Se tendra que desarrollar una carcasa en la cual se pondra el circuito para la proteccion de el y que la instalacion en la bicileta sea mas sensilla y practica.
-4.	Programacion de sensores para el circuito.
-•	Sensor GPS.
-•	Sensor de aproximidad 
-•	Sensor de posicion 
-•	Sensor de temperatura
-•	Sensor de movimiento 
-•	Sensor de velocidad 
-•	Actuador Buzzer y Leds     |
+| ---         |     ---   |  --- |
+| 1   | HU1 - Desarrollo del Dashboard   | Yo como usuario  Activo – Bicicleta Inteligente Necesito que: El desarrollo del dashboard en el cual se visualize todas las actividades que se van a monitorear con la instalacion del circuito. *1.	Los dias que aplique la actvidad de ciclismo, es necesario que en el dashboard se visualize el monitoreo de la actvididad fisica, como es la velocidad, distancia, pocision, movimiento, temperatura, apromididad y ubicación. *2.	Es necesario que se registre la actividad diaria en un historial en el cual pueda acceder a ella y realizar un analisi del avance de la actividad fisica.|
+| 2    | HU2 – Desarrollo del circuito      | Yo como usuario  Activo – Bicicleta Inteligente Necesito que: El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo). * 1.	La lectura de los sensores que tendra el circuito tendra que mandar esa lectura al dashboard en la cual se mostrara al usuario y se guardara como historial. * 2.	Es necesario realizar la coneccion del circuito y el desarrollo de codigo necesario para la fucionalidad. * 3.	Se tendra que desarrollar una carcasa en la cual se pondra el circuito para la proteccion de el y que la instalacion en la bicileta sea mas sensilla y practica. * 4.	Programacion de sensores para el circuito. * •	Sensor GPS.
+* •	Sensor de aproximidad 
+* •	Sensor de posicion 
+* •	Sensor de temperatura
+* •	Sensor de movimiento 
+* •	Sensor de velocidad 
+* •	Actuador Buzzer y Leds     |
 | 3     | HU3 – Integracion del Dashboard y Circuito      | Yo como usuario  Activo – Bicicleta Inteligente Necesito que:
 Que tanto el dashboard como el circuito tengan comunicación para que puedan cumplir con su objetivo.
 1.	Todo el circuito ya funcional con su codigo tendra que tener comunicacion con el Dashboard para que puedan mostrar le al usuario la lectura que realizan los sensores y/o actuadores al momento de realizar la actividad fisica(ciclismo).
