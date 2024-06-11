@@ -63,8 +63,8 @@ Admite pantallas TFT utilizando controladores (ILI9341, etc.) que operan con har
 Version: VHDL 1.1.0
 
 # Hardware empleado:
-| Nombre |     Imagen     | Descripción    |
-| :--- : |     :---:      |  :---:         |
+| Nombre | Description |
+| --- | --- |
 | Modulo GPS | []()     | Esto puede permite una fácil visualización de los datos en tiempo real mientras pedalea el usuario objetivo   |
 | pantalla esp32-7 inch   | []()      | En la pantalla tactil se visualizara toda la informacion que los sensores recolectaran y asi el usuario puede visualizarlos para generar mejor satisfaccion en su rutina de ciclismo.    |
 | Sensor de temperatura    | git diff       | Este sensor permitira medir la temperatura mediante una señal eléctrica determinada. Dicha señal puede enviarse directamente o mediante el cambio de la resistencia.     |
