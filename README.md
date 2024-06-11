@@ -30,18 +30,25 @@ Ya que el ciclismo es un deporte que ofrece numerosos beneficios para la salud f
 # Software empleado:
 •	Node-RED es una herramienta de programación visual. Muestra visualmente las relaciones y funciones, y permite al usuario programar sin tener que escribir una lengua. Node-RED es un editor de flujo basado en el navegador donde se puede agregar o eliminar nodos y conectarlos entre sí con el fin de hacer que se comuniquen entre ellos.
 	Version: Node-RED version: v3.1.9
+
 •	Node. js es un entorno de ejecución JavaScript de código abierto y multiplataforma que se utiliza para desarrollar aplicaciones escalables del lado del servidor y de red
 	Version: Node.js  version: v14.21.3
+
 •	PostgreSQL, comúnmente pronunciado "Post-GRES", es una base de datos de código abierto que tiene una sólida reputación por su fiabilidad, flexibilidad y soporte de estándares técnicos abiertos. A diferencia de otros RDMBS (sistemas de gestión de bases de datos relacionales), PostgreSQL (enlace externo a ibm.com) soporta tipos de datos relacionales y no relacionales. Esto la convierte en una de las bases de datos relacionales más compatibles, estables y maduras disponibles actualmente.
 	Version: PostgreSQL 10.3 (64 bits)* PostGIS 2.4.
+
 •	Arduino IDE, El entorno de desarrollo integrado de Arduino es una aplicación multiplataforma que está escrita en el lenguaje de programación Java. Este sofware es funcional para compilar codigo.
 	Version: Arduino IDE 2.3.2
+
 •	Thonny es un programa de desarrollo gratuito para PC que fue creado por un desarrollador independiente que lleva el mismo nombre. Es un entorno de desarrollo integrado (IDE) de código abierto que se puede utilizar para crear diversas aplicaciones utilizando el lenguaje de programación Python.
 	Version: Thonny 4.0.2
+
 •	Visual Studio e IDE más completo para desarrolladores de .NET y C++ en Windows para crear aplicaciones web, en la nube, de escritorio, móviles, servicios y juegos. 
 	Version: Visual Studio 3.4.3
+
 •	Wokwi es una fascinante herramienta consistente en un simulador de proyectos Arduino, que también sirve para microcontroladores ESP32 y STM32. Puede simular visualmente y mediante objetos y conexiones móviles las placas, cables y componentes y también ejecutar el código y mostrar qué es lo que hace.
 	Versiones: Wokwi, la version el linea
+
 •	TinkerCAD Diseños 3D es la herramienta que nos permitirá diseñar de la forma más sencilla objetos y piezas. Es un software CAD basado en una geometría sólida constructiva (CSG), que permite a los usuarios crear modelos mediante la combinación de objetos más simples.
 Versiones: TinkerCAD, la version en linea
 
