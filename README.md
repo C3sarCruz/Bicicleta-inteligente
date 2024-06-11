@@ -65,13 +65,13 @@ Version: VHDL 1.1.0
 # Hardware empleado:
 | Nombre | Description | Imagen |
 | --- | --- | --- |
-| Modulo GPS | Esto puede permite una fácil visualización de los datos en tiempo real mientras pedalea el usuario objetivo   | |
-| pantalla esp32-7 inch   | En la pantalla tactil se visualizara toda la informacion que los sensores recolectaran y asi el usuario puede visualizarlos para generar mejor satisfaccion en su rutina de ciclismo.    | |
-| Sensor de temperatura    | Este sensor permitira medir la temperatura mediante una señal eléctrica determinada. Dicha señal puede enviarse directamente o mediante el cambio de la resistencia.     | |
-| Sensor ultrasonico   | Su función es monitorear los movimientos de objetos en un espacio determinado.    | |
-| Buzzer    | El actuador Buzzer funcionara para evitar señales o aviso de emergencias  | |
-| Leds    |  Leds para dar aviso a anomalias o cambios dentro del circuito  | |
-| Raspberry Pi 4   | La Raspberry Pi 4 funcionara como broker en la cual estara almacenado dashboard y base de datos.  | |
+| Modulo GPS | Esto puede permite una fácil visualización de los datos en tiempo real mientras pedalea el usuario objetivo   | [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/gps.jpeg) |
+| pantalla esp32-7 inch   | En la pantalla tactil se visualizara toda la informacion que los sensores recolectaran y asi el usuario puede visualizarlos para generar mejor satisfaccion en su rutina de ciclismo.    | [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/display.jpeg)|
+| Sensor de temperatura    | Este sensor permitira medir la temperatura mediante una señal eléctrica determinada. Dicha señal puede enviarse directamente o mediante el cambio de la resistencia.     | [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Sensor%20de%20temperatura.jpeg)|
+| Sensor ultrasonico   | Su función es monitorear los movimientos de objetos en un espacio determinado.    | [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Ultrasonico.png) |
+| Buzzer    | El actuador Buzzer funcionara para evitar señales o aviso de emergencias  | [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Buzzer.jpeg)|
+| Leds    |  Leds para dar aviso a anomalias o cambios dentro del circuito  | [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/leds.jpeg)|
+| Raspberry Pi 4   | La Raspberry Pi 4 funcionara como broker en la cual estara almacenado dashboard y base de datos.  |[](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Raspberry%20Pi%204.jpeg) |
 
 
 # Historias de usuario:
@@ -86,12 +86,12 @@ Este proyecto consiste en un accesorio para las bicicletas con el fin de mejorar
 La misión del proyecto es la de crear un accesorio práctico y simple de usar para que los usuarios puedan interactuar fácilmente con el Este proyecto contará con la instalación de un sensor de proximidad para determinar la distancia que hay entre el usuario que usa la bicicleta y los objetos que se encuentran alrededor.
 Mensionado lo anterior se muestra un prototipo de nuestro producto en donde se plasma nuestrp producto y el como esta diseñado, esto para generar un producto satisfactorio.
 
-[]()
+[](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Bicicleata.png)
 
 # Arquitectura
 La arquitectura en Capas.
 
-[]()
+[](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Arquitectura.png)
 
 * Esta arquitectura es la escojida debido ya que se dibide en capas y cada una de ellas tiene una tarea en espesifico y pueden ser capas independientes, es decir cada capa puede estar diseñada para una tarea especifica y entre laas capas pueden tener comunicación a travez de una interfaz bien definida.
 * Por ello se escogio esta arquitectura para el proyecto de la bicileta intelogente ya que se podra dividir en modulos independiente y tener comunicación entre ellos, es decir;
@@ -104,24 +104,22 @@ La arquitectura en Capas.
 # Tablero Trello
 
 + Sprint 1. Se genero el primer spring con la integración de la placa esp32 para poder agregar las funcionalidades del sensor ultrasónico, esta placa es provisional, ya que será sustituida por una Pantalla tactil ESP32.
-+ []()
++ [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Trello1.jpg)
 + Sprint 2. El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo).
-+ []()
++ [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Trello2.jpg)
 + Sprint 3. Que tanto el dashboard como el circuito tengan comunicación para que puedan cumplir con su objetivo y la integracion de la pantalla inteligente.
-+ []()
++ [](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Trello3.jpg)
 
 # Circuito diseñado para el proyecto completo
 En el siguiente circuito se muestra como estara diseñado nuestro circuito para la bicicleta inteligente, en el cual se muestran todos los sensores mencionados anteriormente que tendran como objetivo generar un producto de calidad y que pueda satisfacer las necesidades de nuestros usuarios ciclistas
 
-[]()
-[]()
+[](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Circuito.png)
 
 # Resultados 
 Spring 1. Se agrego la funcionalidad del sensor ultrasónico y Buzzer con su led. Como resultado esperado, el sensor ultrasonico tiene que tener la funcionalidad medir la distancia que existe entre un objeto contando el tiempo entre la emisión y la recepción. por otro lado en Buzzer produce un sonido o zumbido continuo o intermitente de un mismo tono, que su funcion es una alarma que sera actividad dependiendo de lo serca que este un objeto al igual que el led funcionara como una alerta, los 3 son un consjunto para una funcionalidad efectiva.
 
-[]()
-
-[]()
+[](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Sprint%201%20fisico.jpg)
+[](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Sprint1fisico.jpg)
 
 # Resultados esperados del proyecto completo
 Las bicicletas inteligentes, ofrecen una serie de resultados esperados para los ciclistas. A continuación, se presentan algunos de estos resultados:
