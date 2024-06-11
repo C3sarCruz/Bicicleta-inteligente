@@ -63,15 +63,15 @@ Admite pantallas TFT utilizando controladores (ILI9341, etc.) que operan con har
 Version: VHDL 1.1.0
 
 # Hardware empleado:
-| Nombre | Description |
-| --- | --- |
-| Modulo GPS | Esto puede permite una fácil visualización de los datos en tiempo real mientras pedalea el usuario objetivo   |
-| pantalla esp32-7 inch   | En la pantalla tactil se visualizara toda la informacion que los sensores recolectaran y asi el usuario puede visualizarlos para generar mejor satisfaccion en su rutina de ciclismo.    |
-| Sensor de temperatura    | Este sensor permitira medir la temperatura mediante una señal eléctrica determinada. Dicha señal puede enviarse directamente o mediante el cambio de la resistencia.     |
-| Sensor ultrasonico   | Su función es monitorear los movimientos de objetos en un espacio determinado.    |
-| Buzzer    | El actuador Buzzer funcionara para evitar señales o aviso de emergencias  |
-| Leds    |  Leds para dar aviso a anomalias o cambios dentro del circuito  |
-| Raspberry Pi 4   | La Raspberry Pi 4 funcionara como broker en la cual estara almacenado dashboard y base de datos.  |
+| Nombre | Description | Imagen |
+| --- | --- | --- |
+| Modulo GPS | Esto puede permite una fácil visualización de los datos en tiempo real mientras pedalea el usuario objetivo   | |
+| pantalla esp32-7 inch   | En la pantalla tactil se visualizara toda la informacion que los sensores recolectaran y asi el usuario puede visualizarlos para generar mejor satisfaccion en su rutina de ciclismo.    | |
+| Sensor de temperatura    | Este sensor permitira medir la temperatura mediante una señal eléctrica determinada. Dicha señal puede enviarse directamente o mediante el cambio de la resistencia.     | |
+| Sensor ultrasonico   | Su función es monitorear los movimientos de objetos en un espacio determinado.    | |
+| Buzzer    | El actuador Buzzer funcionara para evitar señales o aviso de emergencias  | |
+| Leds    |  Leds para dar aviso a anomalias o cambios dentro del circuito  | |
+| Raspberry Pi 4   | La Raspberry Pi 4 funcionara como broker en la cual estara almacenado dashboard y base de datos.  | |
 
 
 # Historias de usuario:
