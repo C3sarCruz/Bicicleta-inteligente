@@ -66,7 +66,6 @@ Version: VHDL 1.1.0
 | Nombre | Description | Imagen |
 | --- | --- | --- |
 | Modulo GPS | Esto puede permite una fácil visualización de los datos en tiempo real mientras pedalea el usuario objetivo   | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/gps.jpeg) |
-| pantalla esp32-7 inch   | En la pantalla tactil se visualizara toda la informacion que los sensores recolectaran y asi el usuario puede visualizarlos para generar mejor satisfaccion en su rutina de ciclismo.    | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/display.jpeg)|
 | Sensor de temperatura    | Este sensor permitira medir la temperatura mediante una señal eléctrica determinada. Dicha señal puede enviarse directamente o mediante el cambio de la resistencia.     | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Sensor%20de%20temperatura.jpeg)|
 | Sensor ultrasonico   | Su función es monitorear los movimientos de objetos en un espacio determinado.    | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Ultrasonico.png) |
 | Buzzer    | El actuador Buzzer funcionara para evitar señales o aviso de emergencias  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Buzzer.jpeg)|
