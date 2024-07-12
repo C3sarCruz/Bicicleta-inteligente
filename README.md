@@ -85,7 +85,7 @@ Este proyecto consiste en un accesorio para las bicicletas con el fin de mejorar
 La misión del proyecto es la de crear un accesorio práctico y simple de usar para que los usuarios puedan interactuar fácilmente con el Este proyecto contará con la instalación de un sensor de proximidad para determinar la distancia que hay entre el usuario que usa la bicicleta y los objetos que se encuentran alrededor.
 Mensionado lo anterior se muestra un prototipo de nuestro producto en donde se plasma nuestrp producto y el como esta diseñado, esto para generar un producto satisfactorio.
 
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Bicicleata.png)
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/bicicleata.png)
 
 # Arquitectura
 La arquitectura en Capas.
