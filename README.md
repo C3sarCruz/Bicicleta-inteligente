@@ -70,7 +70,7 @@ Version: VHDL 1.1.0
 | Sensor ultrasonico   | Su función es monitorear los movimientos de objetos en un espacio determinado.    | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Ultrasonico.png) |
 | Buzzer    | El actuador Buzzer funcionara para evitar señales o aviso de emergencias  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Buzzer.jpeg)|
 | Leds    |  Leds para dar aviso a anomalias o cambios dentro del circuito  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/leds.jpeg)|
-| Raspberry Pi 4   | La Raspberry Pi 4 funcionara como broker en la cual estara almacenado dashboard y base de datos.  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Raspberry%20Pi%204.jpeg) |
+| ESP32   | Se trata de un microcontrolador que integra tecnologías WiFi y Bluetooth, que le proporcionan conectividad con internet u otros dispositivos.  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Raspberry%20Pi%204.jpeg) |
 
 
 # Historias de usuario:
