@@ -114,7 +114,8 @@ La arquitectura en Capas.
 # Circuito diseñado para el proyecto completo
 En el siguiente circuito se muestra como estara diseñado nuestro circuito para el casco inteligente, en el cual se muestran todos los sensores mencionados anteriormente que tendran como objetivo generar un producto de calidad y que pueda satisfacer las necesidades de nuestros usuarios ciclistas
 
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Circuito.png)
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/circuito.png)
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/nodemcu-esp32.jpg)
 
 # Resultados 
 Spring 1. Se agrego la funcionalidad del sensor ultrasónico y Buzzer con su led. Como resultado esperado, el sensor ultrasonico tiene que tener la funcionalidad medir la distancia que existe entre un objeto contando el tiempo entre la emisión y la recepción. por otro lado en Buzzer produce un sonido o zumbido continuo o intermitente de un mismo tono, que su funcion es una alarma que sera actividad dependiendo de lo serca que este un objeto al igual que el led funcionara como una alerta, los 3 son un consjunto para una funcionalidad efectiva.
