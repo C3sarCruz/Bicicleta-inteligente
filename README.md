@@ -1,4 +1,4 @@
-# Bicicleta-inteligente
+# Casco-inteligente
 Repositorio de Proyecto - Bicicleta inteligente
 
 # Integrantes: 
@@ -6,7 +6,7 @@ Repositorio de Proyecto - Bicicleta inteligente
 •	Cesar Guerrero Cruz
 
 # Objetivo:
-La creación de un sistema de monitoreo para ciclistas para que los ciclistas puedan monitorear su alrededor o su progreso
+La creación de un sistema de monitoreo para ciclistas para que los ciclistas puedan monitorear su alrededor o su progreso.
 
 # Descripción:
 El sistema contará con distintos sensores para capturar datos que se le mostrará a los ciclistas para que estén al tanto de su avance o lo que está pasando a su alrededor. Contará con un sensor de temperatura que le indicara la temperatura del ambiente, una sensor de velocidad que le indicara la velocidad que lleva pedaleando, también la proximidad que lleva o tiene con otros objetos y un GPS para indicar su ubicación y a donde se quiera dirigir, también este sistema monitoreara calorías, distancia que el ciclista realice en su trayectoria. Todos estos datos serán registrados para que el ciclista pueda ver su avance día a día.
