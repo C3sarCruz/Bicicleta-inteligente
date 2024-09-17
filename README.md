@@ -1,5 +1,4 @@
 # Casco-inteligente
-`#RRGGBB`
 Repositorio de Proyecto - Bicicleta inteligente
 
 # Integrantes: 
