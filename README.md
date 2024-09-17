@@ -65,12 +65,15 @@ Version: VHDL 1.1.0
 # Hardware empleado:
 | Nombre | Description | Imagen |
 | --- | --- | --- |
-| Modulo GPS | Esto puede permite una fácil visualización de los datos en tiempo real mientras pedalea el usuario objetivo   | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/gps.jpeg) |
+| Sensor de Gas| son instrumentos que detectan la presencia de gases peligrosos en el aire. Su función principal es prevenir la exposición a gases tóxicos y combustibles.   | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/gps.jpeg) |
 | Sensor de temperatura    | Este sensor permitira medir la temperatura mediante una señal eléctrica determinada. Dicha señal puede enviarse directamente o mediante el cambio de la resistencia.     | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Sensor%20de%20temperatura.jpeg)|
 | Sensor ultrasonico   | Su función es monitorear los movimientos de objetos en un espacio determinado.    | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Ultrasonico.png) |
 | Buzzer    | El actuador Buzzer funcionara para evitar señales o aviso de emergencias  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Buzzer.jpeg)|
 | Leds    |  Leds para dar aviso a anomalias o cambios dentro del circuito  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/leds.jpeg)|
 | ESP32   | Se trata de un microcontrolador que integra tecnologías WiFi y Bluetooth, que le proporcionan conectividad con internet u otros dispositivos.  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/nodemcu-esp32.jpg) | 
+| Pantalla OLED   | Ofrecen ángulos de visión más amplios, lo que permite mostrar el contenido de la pantalla a varias personas a la vez.  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/nodemcu-esp32.jpg) | 
+| Sensor PIR | Los sensores infrarrojos pasivos (PIR) son dispositivos para la detección de movimiento. Son baratos, pequeños, de baja potencia, y fáciles de usar. Por esta razón son frecuentemente usados en juguetes, aplicaciones domóticas o sistemas de seguridad.  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/nodemcu-esp32.jpg) | 
+
 
 # Historias de usuario:
 | Sprint  | No° Historia | Descripción |
