@@ -1,5 +1,5 @@
 # Casco-inteligente
-Repositorio de Proyecto - Bicicleta inteligente
+Repositorio de Proyecto - Casco Inteligente
 
 # Integrantes: 
 •	Maria Guadalupe Puente Gonzalez 
