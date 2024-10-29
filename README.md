@@ -8,12 +8,12 @@
 * Creación de un sistema de monitorio de ambiente para que los ciclistas puedan monitorear su alrededor o su progreso.
 
 # Descripción:
- ** El sistema contará con distintos sensores para capturar datos que se mostrará a los ciclistas para que estén al tanto de su avance o lo que está pasando a su alrededor. 
+El sistema contará con distintos sensores para capturar datos que se mostrará a los ciclistas para que estén al tanto de su avance o lo que está pasando a su alrededor. 
 Contará con un sensor de temperatura que le indicara la temperatura del ambiente, sensor de a proximidad que indicara la a proximidad de los objetos que se encuentra en su recorrido, sensor de gas que nos indicará si hay gases tóxicos o peligrosos y un sensor de movimiento que permite detectar el actual movimiento que lleve el ciclista. También contara con actuadores que ayudaran a los sensores a pasar el mensaje que estén detectando, los actuadores que se utilizaran será un led, pantalla oled, buzzer y gauge
 
 
 # Visión:
-Nuestro producto esta dirijido a todo usuario que realizan ciclismo, ya que nuestros usuarios disfrutan del ciclismo el problema a resolver  es la disminucion de accidentes. Con nuestro un producto  buscamos ofrecer que pueda monitorear su alrededor por el cual el usuario realiza su actividad,esto ayudando a que sea mas satisfactoria ya que podra monitorear diferentes factores que estan pasando en su ambiente. Nuestro casco inteligente busca darle al ciclisma una mejor herramienta para que pueda hacer su actividad y al mismo tiempo tener un registro de su avance o los factores que ocurrieron a su alrededor al momento de realizar el ciclimos.
+Nuestro producto está dirigido a todo usuario que realizan ciclismo, ya que nuestros usuarios son ciclistas el problema a resolver es la disminución de accidentes. Con nuestro un producto buscamos ofrecer que pueda monitorear su alrededor asiendo su actividad más segura y satisfactoria ya que podrá monitorear diferentes factores que están pasando en su ambiente o alrededor. Nuestro casco inteligente busca darle al ciclista una mejor herramienta para que pueda hacer su actividad y al mismo tiempo tener un registro de su avance o los factores que ocurrieron a su alrededor.
 
 # Necesidad que cubre:
 La idea es ofrecer un producto que busque satisfacer las necesidades de nuestro usuario, proporcionando un producto de calidad que pueda cumplir con sus espectativas. el casco inteligente tiene direfentes beneficios ya que el pedalear es económico,  e ideal para convertirlo en una actividad deportiva. Además tiene grandes beneficios para el cuerpo y prevenir enfermedades ya que es una de las actividades físicas más completas. 
@@ -54,12 +54,9 @@ Ya que el ciclismo es un deporte que ofrece numerosos beneficios para la salud f
 Versiones: TinkerCAD, la version en linea
 
 # Librerias:
-•	TinyGPSPlus proporciona análisis orientado a objetos de sentencias GPS (NMEA).
-NMEA es el formato estándar que utilizan los dispositivos GPS para informar la ubicación, hora, altitud, etc. TinyGPSPlus es una biblioteca compacta y resistente que analiza las 'oraciones' NMEA más comunes utilizadas: GGA y RMC. También se puede personalizar para extraer datos de *cualquier* oración que cumpla.
-	Version:  librería TinyGPS 1.0.3
 •	TFT_eSPI biblioteca de gráficos TFT para procesadores Arduino con optimización de rendimiento para RP2040, STM32, ESP8266 y ESP32.
 Admite pantallas TFT utilizando controladores (ILI9341, etc.) que operan con hardware SPI o paralelo de 8/16 bits.
-	Version: TFT_Espi 2.5.43
+	Version: TFT_Espi 2.5.43 <br>
 •	Librería en VHDL para controlar un sensor de temperatura y humedad DHT11 mediante protocolo serial OneWire. La librería realiza un muestreo cada dos segundos y realiza la operación de Checksum para compararlo con el Checksum del error y así comprobar la correcta transferencia de datos, en caso contrario se envía una señal de error la cual detiene el proceso de adquisición.
 Version: VHDL 1.1.0
 
