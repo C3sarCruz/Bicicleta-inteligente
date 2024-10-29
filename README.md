@@ -8,7 +8,10 @@
 * Creación de un sistema de monitorio de ambiente para que los ciclistas puedan monitorear su alrededor o su progreso.
 
 # Descripción:
-El sistema contará con distintos sensores para capturar datos que se le mostrará a los ciclistas para que estén al tanto de su avance o lo que está pasando a su alrededor. Contará con un sensor de temperatura que le indicara la temperatura del ambiente, una sensor de velocidad que le indicara la velocidad que lleva pedaleando, también la proximidad que lleva o tiene con otros objetos y un sensor de gas que nos indicara si hay gases toxicos en nuestro ambiente. Todos estos datos serán registrados para que el ciclista pueda ver su avance día a día.
+<div style="text-align: justify;">
+ El sistema contará con distintos sensores para capturar datos que se mostrará a los ciclistas para que estén al tanto de su avance o lo que está pasando a su alrededor. 
+Contará con un sensor de temperatura que le indicara la temperatura del ambiente, sensor de a proximidad que indicara la a proximidad de los objetos que se encuentra en su recorrido, sensor de gas que nos indicará si hay gases tóxicos o peligrosos y un sensor de movimiento que permite detectar el actual movimiento que lleve el ciclista. También contara con actuadores que ayudaran a los sensores a pasar el mensaje que estén detectando, los actuadores que se utilizaran será un led, pantalla oled, buzzer y gauge
+</div>
 
 # Visión:
 Nuestro producto esta dirijido a todo usuario que realizan ciclismo, ya que nuestros usuarios disfrutan del ciclismo el problema a resolver  es la disminucion de accidentes. Con nuestro un producto  buscamos ofrecer que pueda monitorear su alrededor por el cual el usuario realiza su actividad,esto ayudando a que sea mas satisfactoria ya que podra monitorear diferentes factores que estan pasando en su ambiente. Nuestro casco inteligente busca darle al ciclisma una mejor herramienta para que pueda hacer su actividad y al mismo tiempo tener un registro de su avance o los factores que ocurrieron a su alrededor al momento de realizar el ciclimos.
