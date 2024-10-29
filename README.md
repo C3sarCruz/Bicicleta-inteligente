@@ -20,8 +20,9 @@ La idea es ofrecer un producto que busque satisfacer las necesidades de nuestro 
 Tomando lo anterior como punto de partida, se pretende crear un producto que sea un accesorio que ayude a monitorear el avance que nuestros usuarios tengan, tambien contara con otras fucniones que le seaun utilez al usuario como serian; la lectura de clima, la velocidad, distancia entre otras. Esto con la finalidad que sea mas satisfactorio el paseo en cicibleta y que se tenga un registro de avances.
 
 # Competencias en el mercado:
-•	Una smart bike es una bicicleta diseñada para entrenar en interiores. Muchas personas conocen las típicas bicis de gimnasio o de spinning, pero esta es diferente. Es un dispositivo enfocados a facilitar una experiencia lo más aproximada posible al rodar en bici en exterior.
-•	un rodillo es un sistema que bloquea la rueda trasera de tu bici con la ayuda de un soporte y que te permite pedalear en casa. En la actualidad, los más populares son los rodillos interactivos de transmisión directa. Funcionan de la siguiente manera: se quita la rueda de la bici y se monta sobre el cassette instalado en el propio rodillo. 
+	Una smart bike es una bicicleta diseñada para entrenar en interiores. Muchas personas conocen las típicas bicis de gimnasio o de spinning, pero esta es diferente. Es un dispositivo enfocado a facilitar una experiencia lo más aproximada posible al rodar en bici en exterior.
+	Un rodillo es un sistema que bloquea la rueda trasera de tu bici con la ayuda de un soporte y que te permite pedalear en casa. En la actualidad, los más populares son los rodillos interactivos de transmisión directa. Funcionan de la siguiente manera: se quita la rueda de la bici y se monta sobre el cassette instalado en el propio rodillo.
+
 
 # ¿Qué tiene mejor nuestro proyecto que la competencia no?
 Anteriormente se mencionan dos productos que estan en el mercado y que serian nuestra competencia, pero… ¿Qué mejora tiene nuestro Casco Inteligente? Es sencillo, nuestro producto esta dirijido al publico que realiza ciclismo y que disfruta salir de su vivienda para realizar esta actvidad. Con nuestro producto buscamos mejorar la esperiencia de nuestros usuarios, volviendolo un producto competitivo. Si bien tambien nuestro producto contara con sensores ya ctuadores que realizaran diferentes funciones para que nuestros usuarios vayan monitoriando su alrededor y su actividad fisica.
@@ -56,9 +57,9 @@ Versiones: TinkerCAD, la version en linea
 # Librerias:
 •	TFT_eSPI biblioteca de gráficos TFT para procesadores Arduino con optimización de rendimiento para RP2040, STM32, ESP8266 y ESP32.
 Admite pantallas TFT utilizando controladores (ILI9341, etc.) que operan con hardware SPI o paralelo de 8/16 bits.<br>
-** Version: TFT_Espi 2.5.43 ** <br>
+Version: TFT_Espi 2.5.43 <br>
 •	Librería en VHDL para controlar un sensor de temperatura y humedad DHT11 mediante protocolo serial OneWire. La librería realiza un muestreo cada dos segundos y realiza la operación de Checksum para compararlo con el Checksum del error y así comprobar la correcta transferencia de datos, en caso contrario se envía una señal de error la cual detiene el proceso de adquisición.<br>
-** Version: VHDL 1.1.0 **
+Version: VHDL 1.1.0 
 
 # Hardware empleado:
 | Nombre | Description | Imagen |
