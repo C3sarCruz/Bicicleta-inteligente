@@ -52,12 +52,19 @@ Ya que el ciclismo es un deporte que ofrece numerosos beneficios para la salud f
 	Versiones: Wokwi, la version el linea
 
 •	TinkerCAD Diseños 3D es la herramienta que nos permitirá diseñar de la forma más sencilla objetos y piezas. Es un software CAD basado en una geometría sólida constructiva (CSG), que permite a los usuarios crear modelos mediante la combinación de objetos más simples.
-Versiones: TinkerCAD, la version en linea
+Versiones: TinkerCAD, la version en linea.
+
+• Flutter es un framework de código abierto desarrollado por Google para crear aplicaciones móviles, web y de escritorio:
+        Aplicaciones móviles: Permite crear aplicaciones para Android e iOS con una sola base de código.
+        Aplicaciones web: Permite crear aplicaciones web.
+        Aplicaciones de escritorio: Permite crear aplicaciones para Windows y Mac, aunque aún está en fase experimental. 
+  Version 3.24.2
 
 # Librerias:
 •	TFT_eSPI biblioteca de gráficos TFT para procesadores Arduino con optimización de rendimiento para RP2040, STM32, ESP8266 y ESP32.
 Admite pantallas TFT utilizando controladores (ILI9341, etc.) que operan con hardware SPI o paralelo de 8/16 bits.<br>
 Version: TFT_Espi 2.5.43 <br>
+
 •	Librería en VHDL para controlar un sensor de temperatura y humedad DHT11 mediante protocolo serial OneWire. La librería realiza un muestreo cada dos segundos y realiza la operación de Checksum para compararlo con el Checksum del error y así comprobar la correcta transferencia de datos, en caso contrario se envía una señal de error la cual detiene el proceso de adquisición.<br>
 Version: VHDL 1.1.0 
 
