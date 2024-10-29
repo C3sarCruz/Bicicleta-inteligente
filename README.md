@@ -55,10 +55,10 @@ Versiones: TinkerCAD, la version en linea
 
 # Librerias:
 •	TFT_eSPI biblioteca de gráficos TFT para procesadores Arduino con optimización de rendimiento para RP2040, STM32, ESP8266 y ESP32.
-Admite pantallas TFT utilizando controladores (ILI9341, etc.) que operan con hardware SPI o paralelo de 8/16 bits.
-	Version: TFT_Espi 2.5.43 <br>
-•	Librería en VHDL para controlar un sensor de temperatura y humedad DHT11 mediante protocolo serial OneWire. La librería realiza un muestreo cada dos segundos y realiza la operación de Checksum para compararlo con el Checksum del error y así comprobar la correcta transferencia de datos, en caso contrario se envía una señal de error la cual detiene el proceso de adquisición.
-Version: VHDL 1.1.0
+Admite pantallas TFT utilizando controladores (ILI9341, etc.) que operan con hardware SPI o paralelo de 8/16 bits.<br>
+** Version: TFT_Espi 2.5.43 ** <br>
+•	Librería en VHDL para controlar un sensor de temperatura y humedad DHT11 mediante protocolo serial OneWire. La librería realiza un muestreo cada dos segundos y realiza la operación de Checksum para compararlo con el Checksum del error y así comprobar la correcta transferencia de datos, en caso contrario se envía una señal de error la cual detiene el proceso de adquisición.<br>
+** Version: VHDL 1.1.0 **
 
 # Hardware empleado:
 | Nombre | Description | Imagen |
