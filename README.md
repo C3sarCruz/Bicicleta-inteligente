@@ -20,7 +20,7 @@ La idea es ofrecer un producto que busque satisfacer las necesidades de nuestro 
 Tomando lo anterior como punto de partida, se pretende crear un producto que sea un accesorio que ayude a monitorear el avance que nuestros usuarios tengan, tambien contara con otras fucniones que le seaun utilez al usuario como serian; la lectura de clima, la velocidad, distancia entre otras. Esto con la finalidad que sea mas satisfactorio el paseo en cicibleta y que se tenga un registro de avances.
 
 # Competencias en el mercado:
-• Una smart bike es una bicicleta diseñada para entrenar en interiores. Muchas personas conocen las típicas bicis de gimnasio o de spinning, pero esta es diferente. Es un dispositivo enfocado a facilitar una experiencia lo más aproximada posible al rodar en bici en exterior.
+• Una smart bike es una bicicleta diseñada para entrenar en interiores. Muchas personas conocen las típicas bicis de gimnasio o de spinning, pero esta es diferente. Es un dispositivo enfocado a facilitar una experiencia lo más aproximada posible al rodar en bici en exterior.<br>
 • Un rodillo es un sistema que bloquea la rueda trasera de tu bici con la ayuda de un soporte y que te permite pedalear en casa. En la actualidad, los más populares son los rodillos interactivos de transmisión directa. Funcionan de la siguiente manera: se quita la rueda de la bici y se monta sobre el cassette instalado en el propio rodillo.
 
 
