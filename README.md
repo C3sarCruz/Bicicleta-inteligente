@@ -2,7 +2,7 @@
 Repositorio de Proyecto - Casco Inteligente
 
 # Integrantes: 
-•	Maria Guadalupe Puente Gonzalez 
+•	Maria Guadalupe Puente Gonzalez <br>
 •	Cesar Guerrero Cruz
 
 # Objetivo:
