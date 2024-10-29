@@ -31,25 +31,25 @@ Ya que el ciclismo es un deporte que ofrece numerosos beneficios para la salud f
 
 # Software empleado:
 •	Node-RED es una herramienta de programación visual. Muestra visualmente las relaciones y funciones, y permite al usuario programar sin tener que escribir una lengua. Node-RED es un editor de flujo basado en el navegador donde se puede agregar o eliminar nodos y conectarlos entre sí con el fin de hacer que se comuniquen entre ellos.
-	Version: Node-RED version: v3.1.9
+	Version: Node-RED version: v3.1.9
 
 •	Node. js es un entorno de ejecución JavaScript de código abierto y multiplataforma que se utiliza para desarrollar aplicaciones escalables del lado del servidor y de red
-	Version: Node.js  version: v14.21.3
+	Version: Node.js  version: v14.21.3
 
 •	SQLite, SQLite es una herramienta de software libre, que permite almacenar información en dispositivos empotrados de una forma sencilla, eficaz, potente, rápida y en equipos con pocas capacidades de hardware, como puede ser una PDA o un teléfono celular. SQLite implementa el estándar SQL92 y también agrega extensiones que facilitan su uso en cualquier ambiente de desarrollo.
-	Version: SQLite 10.3 (64 bits)
+	Version: SQLite 10.3 (64 bits)
 
 •	Arduino IDE, El entorno de desarrollo integrado de Arduino es una aplicación multiplataforma que está escrita en el lenguaje de programación Java. Este sofware es funcional para compilar codigo.
-	Version: Arduino IDE 2.3.2
+	Version: Arduino IDE 2.3.2
 
 •	Thonny es un programa de desarrollo gratuito para PC que fue creado por un desarrollador independiente que lleva el mismo nombre. Es un entorno de desarrollo integrado (IDE) de código abierto que se puede utilizar para crear diversas aplicaciones utilizando el lenguaje de programación Python.
-	Version: Thonny 4.0.2
+	Version: Thonny 4.0.2
 
 •	Visual Studio e IDE más completo para desarrolladores de .NET y C++ en Windows para crear aplicaciones web, en la nube, de escritorio, móviles, servicios y juegos. 
-	Version: Visual Studio 3.4.3
+	Version: Visual Studio 3.4.3
 
 •	Wokwi es una fascinante herramienta consistente en un simulador de proyectos Arduino, que también sirve para microcontroladores ESP32 y STM32. Puede simular visualmente y mediante objetos y conexiones móviles las placas, cables y componentes y también ejecutar el código y mostrar qué es lo que hace.
-	Versiones: Wokwi, la version el linea
+	Versiones: Wokwi, la version el linea
 
 •	TinkerCAD Diseños 3D es la herramienta que nos permitirá diseñar de la forma más sencilla objetos y piezas. Es un software CAD basado en una geometría sólida constructiva (CSG), que permite a los usuarios crear modelos mediante la combinación de objetos más simples.
 Versiones: TinkerCAD, la version en linea.
@@ -67,6 +67,23 @@ Version: TFT_Espi 2.5.43 <br>
 
 •	Librería en VHDL para controlar un sensor de temperatura y humedad DHT11 mediante protocolo serial OneWire. La librería realiza un muestreo cada dos segundos y realiza la operación de Checksum para compararlo con el Checksum del error y así comprobar la correcta transferencia de datos, en caso contrario se envía una señal de error la cual detiene el proceso de adquisición.<br>
 Version: VHDL 1.1.0 
+
+•         La librería #include <Wire.h> es una biblioteca de Arduino que permite a los programas comunicarse con dispositivos externos a través del protocolo Two Wire Interface (TWI o I2C).
+versión 1.0
+
+•        La librería Adafruit GFX es una biblioteca de gráficos para Arduino que se utiliza como clase base para otras bibliotecas de gráficos. Para usarla, es necesario instalarla junto con la biblioteca de visualización del hardware. 
+Versión 1.0
+
+•        La librería #include <Adafruit_SSD1306.h> es una biblioteca de controladores de pantalla que se utiliza para manejar la comunicación de pantalla, el mapeo de memoria y las rutinas de dibujo de bajo nivel. 
+Version 2.4
+
+•        La librería #include <WiFi.h> es una librería que se basa en WiFi.h de la biblioteca Arduino WiFi Shield y que es compatible con WiFi esp32.
+Version 2.4
+
+•        
+
+
+
 
 # Hardware empleado:
 | Nombre | Description | Imagen |
