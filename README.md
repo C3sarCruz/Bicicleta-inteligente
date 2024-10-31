@@ -106,6 +106,7 @@ Versiones 1.40
 Criterios de Aceptación:
 
 •	Creación de una aplicación en la cual se visualicen los datos de los sensores.
+
 •	Que el casto y la aplicación tengan una comunicación efectiva. 
 
 **SPRITN 2 - HU2 – Desarrollo del circuito:** Yo como usuario Activo – Casco Inteligente Necesito que: El desarrollo del circuito el cual será el responsable de leer el comportamiento del ambiente en el que se encuentre el ciclista. 
@@ -113,13 +114,15 @@ Criterios de Aceptación:
 Criterios de Aceptación:
 
 •	Los sensores implementados hagan su funcionalidad correctamente.
+
 •	Los actuadores implementados hagan su funcionalidad correctamente. 
 
 **SPRINT 3 - HU3 – Integración del Dashboard y Circuito:** Yo como usuario Activo – Casco Inteligente Necesito que: se implemente el Dashboard y el circuito cumpliendo con los criterios establecidos, el casco y la aplicación web se deben de comunicarse de manera efectiva, los sensores y actuadores deben de cumplir con su función correctamente. 
 
 Criterios de aceptación: 
 
-•	Sensores y actuadores ya implementados en el casco
+•	Sensores y actuadores ya implementados en el casco.
+
 •	Comunicación entre el casto y la aplicación de Flutter. 
 
 
