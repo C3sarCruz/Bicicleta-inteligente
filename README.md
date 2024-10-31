@@ -106,18 +106,15 @@ Versiones 1.40
 | 1   | HU1 - Desarrollo del Dashboard   |Yo como usuario Activo – Casco Inteligente Necesito que: El desarrollo de un Dashboard en el cual se visualice los datos que los sensores transmitan ya que estos sensores van a leer el ambiente en el cual se encuentran los ciclistas. 
 Criterios de Aceptación: 
 •	Creación de una aplicación en la cual se visualicen los datos de los sensores.
-•	Que el casto y la aplicación tengan una comunicación efectiva. 
-|
+•	Que el casto y la aplicación tengan una comunicación efectiva.|
 | 2    | HU2 – Desarrollo del circuito      | Yo como usuario Activo – Casco Inteligente Necesito que: El desarrollo del circuito el cual será el responsable de leer el comportamiento del ambiente en el que se encuentre el ciclista. 
 Criterios de Aceptación:
 •	Los sensores implementados hagan su funcionalidad correctamente.
-•	Los actuadores implementados hagan su funcionalidad correctamente.
-|
+•	Los actuadores implementados hagan su funcionalidad correctamente.|
 | 3     | HU3 – Integracion del Dashboard y Circuito      | Yo como usuario Activo – Casco Inteligente Necesito que: se implemente el Dashboard y el circuito cumpliendo con los criterios establecidos, el casco y la aplicación web se deben de comunicarse de manera efectiva, los sensores y actuadores deben de cumplir con su función correctamente. 
 Criterios de aceptación: 
 •	Sensores y actuadores ya implementados en el casco
-•	Comunicación entre el casto y la aplicación de Flutter. 
-|
+•	Comunicación entre el casto y la aplicación de Flutter.|
 
 # Prototipo
 Este proyecto consiste en un accesorio para los bicicletas con el fin de mejorar la experiencia y comodidad de los usuarios que practiquen ciclismo, convirtiendo un simple casco en uno capaz de leer su entorno, aprender de él y dar a los usuarios retroalimentación de su progreso. 
