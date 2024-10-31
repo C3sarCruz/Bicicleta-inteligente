@@ -103,9 +103,21 @@ Versiones 1.40
 # Historias de usuario:
 | Sprint  | No° Historia | Descripción |
 | ---         |     ---   |  --- |
-| 1   | HU1 - Desarrollo del Dashboard   | Yo como usuario  Activo – Casco Inteligente Necesito que: El desarrollo del dashboard en el cual se visualize todas las actividades que se van a monitorear con la instalacion del circuito. git status 1.- Los dias que aplique la actvidad de ciclismo, es necesario que en el dashboard se visualize el monitoreo de la actvididad fisica, como es la velocidad, distancia, pocision, movimiento, temperatura, apromididad y ubicación. 2.- Es necesario que se registre la actividad diaria en un historial en el cual pueda acceder a ella y realizar un analisi del avance de la actividad fisica.|
-| 2    | HU2 – Desarrollo del circuito      | Yo como usuario  Activo – Casco Inteligente Necesito que: El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo). 1.- La lectura de los sensores que tendra el circuito tendra que mandar esa lectura al dashboard en la cual se mostrara al usuario y se guardara como historial. 2.-	Es necesario realizar la coneccion del circuito y el desarrollo de codigo necesario para la fucionalidad. 3.-	Se tendra que desarrollar una carcasa en la cual se pondra el circuito para la proteccion de el y que la instalacion en la bicileta sea mas sensilla y practica. 4.-	Programacion de sensores para el circuito. •	Sensor de aproximidad •	Sensor de temperatura•	Sensor de movimiento •	Sensor de gas •	Actuador Buzzer y Leds    |
-| 3     | HU3 – Integracion del Dashboard y Circuito      | Yo como usuario  Activo – Casco Inteligente Necesito que: Que tanto el dashboard como el circuito tengan comunicación para que puedan cumplir con su objetivo. 1.- Todo el circuito ya funcional con su codigo tendra que tener comunicacion con el Dashboard para que puedan mostrar le al usuario la lectura que realizan los sensores y/o actuadores al momento de realizar la actividad fisica(ciclismo). 2.-	Se empleara todo el producto a un casco ciclista para comvertirla en una casco inteligente y que el producto muestre su funcionalidad.3.-	Programacion de la pantalla inteligente en la cual se le mostrara el Dashboard al usuario|
+| 1   | HU1 - Desarrollo del Dashboard   |Yo como usuario Activo – Casco Inteligente Necesito que: El desarrollo de un Dashboard en el cual se visualice los datos que los sensores transmitan ya que estos sensores van a leer el ambiente en el cual se encuentran los ciclistas. 
+Criterios de Aceptación: 
+•	Creación de una aplicación en la cual se visualicen los datos de los sensores.
+•	Que el casto y la aplicación tengan una comunicación efectiva. 
+|
+| 2    | HU2 – Desarrollo del circuito      | Yo como usuario Activo – Casco Inteligente Necesito que: El desarrollo del circuito el cual será el responsable de leer el comportamiento del ambiente en el que se encuentre el ciclista. 
+Criterios de Aceptación:
+•	Los sensores implementados hagan su funcionalidad correctamente.
+•	Los actuadores implementados hagan su funcionalidad correctamente.
+|
+| 3     | HU3 – Integracion del Dashboard y Circuito      | Yo como usuario Activo – Casco Inteligente Necesito que: se implemente el Dashboard y el circuito cumpliendo con los criterios establecidos, el casco y la aplicación web se deben de comunicarse de manera efectiva, los sensores y actuadores deben de cumplir con su función correctamente. 
+Criterios de aceptación: 
+•	Sensores y actuadores ya implementados en el casco
+•	Comunicación entre el casto y la aplicación de Flutter. 
+|
 
 # Prototipo
 Este proyecto consiste en un accesorio para los bicicletas con el fin de mejorar la experiencia y comodidad de los usuarios que practiquen ciclismo, convirtiendo un simple casco en uno capaz de leer su entorno, aprender de él y dar a los usuarios retroalimentación de su progreso. 
