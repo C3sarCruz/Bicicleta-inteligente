@@ -11,24 +11,22 @@
 El sistema contará con distintos sensores para capturar datos que se mostrará a los ciclistas para que estén al tanto de su avance o lo que está pasando a su alrededor. 
 Contará con un sensor de temperatura que le indicara la temperatura del ambiente, sensor de a proximidad que indicara la a proximidad de los objetos que se encuentra en su recorrido, sensor de gas que nos indicará si hay gases tóxicos o peligrosos y un sensor de movimiento que permite detectar el actual movimiento que lleve el ciclista. También contara con actuadores que ayudaran a los sensores a pasar el mensaje que estén detectando, los actuadores que se utilizaran será un led, pantalla oled, buzzer y gauge
 
-
 # Visión:
-Nuestro producto está dirigido a todo usuario que realizan ciclismo, ya que nuestros usuarios son ciclistas el problema a resolver es la disminución de accidentes. Con nuestro un producto buscamos ofrecer que pueda monitorear su alrededor asiendo su actividad más segura y satisfactoria ya que podrá monitorear diferentes factores que están pasando en su ambiente o alrededor. Nuestro casco inteligente busca darle al ciclista una mejor herramienta para que pueda hacer su actividad y al mismo tiempo tener un registro de su avance o los factores que ocurrieron a su alrededor.
+Nuestro producto esta dirigido a los usuarios que practiquen ciclismo, ya que el ciclismo es un deporte que implique correr riesgos por ello se genero esta idea que es un casco inteligente que busca monitorear el ambiente de los ciclistas ya que así se tendrá un mejor control y cuidado al momento de realizar esta actividad. 
+El casco es una idea tecnológica que combina el internet de las cosas con el desarrollo y hardware para poder generar un producto innovador para nuestro público objetivo que son los ciclistas. 
 
 # Necesidad que cubre:
-La idea es ofrecer un producto que busque satisfacer las necesidades de nuestro usuario, proporcionando un producto de calidad que pueda cumplir con sus espectativas. el casco inteligente tiene direfentes beneficios ya que el pedalear es económico,  e ideal para convertirlo en una actividad deportiva. Además tiene grandes beneficios para el cuerpo y prevenir enfermedades ya que es una de las actividades físicas más completas. 
-Tomando lo anterior como punto de partida, se pretende crear un producto que sea un accesorio que ayude a monitorear el avance que nuestros usuarios tengan, tambien contara con otras fucniones que le seaun utilez al usuario como serian; la lectura de clima, la velocidad, distancia entre otras. Esto con la finalidad que sea mas satisfactorio el paseo en cicibleta y que se tenga un registro de avances.
+El producto busca satisfacer las necesidades del usuario proporcionando un producto de calidad que pueda cumplir con las expectativas y requerimientos. El casco inteligente tiene diferentes beneficios para los ciclistas ya que les ayudara a cubrir aspectos de su ambiente al momento de realizar esta actividad.
+Tomando como punto de partida lo anterior, se pretende crear un producto fácil de manipular y que tenga el papel de accesorio ya que será más sencillo utilizarlo, esta idea innovadora podrá revolucionar y mejorar el ciclismo
 
 # Competencias en el mercado:
 • Una smart bike es una bicicleta diseñada para entrenar en interiores. Muchas personas conocen las típicas bicis de gimnasio o de spinning, pero esta es diferente. Es un dispositivo enfocado a facilitar una experiencia lo más aproximada posible al rodar en bici en exterior.
 
 • Un rodillo es un sistema que bloquea la rueda trasera de tu bici con la ayuda de un soporte y que te permite pedalear en casa. En la actualidad, los más populares son los rodillos interactivos de transmisión directa. Funcionan de la siguiente manera: se quita la rueda de la bici y se monta sobre el cassette instalado en el propio rodillo.
 
-
 # ¿Qué tiene mejor nuestro proyecto que la competencia no?
-Anteriormente se mencionan dos productos que estan en el mercado y que serian nuestra competencia, pero… ¿Qué mejora tiene nuestro Casco Inteligente? Es sencillo, nuestro producto esta dirijido al publico que realiza ciclismo y que disfruta salir de su vivienda para realizar esta actvidad. Con nuestro producto buscamos mejorar la esperiencia de nuestros usuarios, volviendolo un producto competitivo. Si bien tambien nuestro producto contara con sensores ya ctuadores que realizaran diferentes funciones para que nuestros usuarios vayan monitoriando su alrededor y su actividad fisica.
-Ya que el ciclismo es un deporte que ofrece numerosos beneficios para la salud física y mental por ello nuestro producto será una gran herramienta para todos aquellos usuarios que desean mejorar su experiencia realizando esta actividad física.
-
+Se mencionaron dos productos del mercado actual que son nuestra competencia, pero nuestra idea ofrece innovación, creatividad y la implementación de la tecnología y el internet de las cosas para generar este producto para nuestros usuarios potenciales. 
+Buscamos automatizar una actividad que muchas personas realizan pero ofreciéndoles algo que pueda colaborar a que esta actividad sea más segura para los ciclistas, este producto es un accesorio que es fácil de usar y no es pesado, busca ser un producto de uso diario que no genere complicación alguna al momento de utilizarlo o al momento de estas realizando el ciclismo.
 
 # Software empleado:
 •	Node-RED es una herramienta de programación visual. Muestra visualmente las relaciones y funciones, y permite al usuario programar sin tener que escribir una lengua. Node-RED es un editor de flujo basado en el navegador donde se puede agregar o eliminar nodos y conectarlos entre sí con el fin de hacer que se comuniquen entre ellos.
@@ -81,10 +79,11 @@ Version 2.4
 •        La librería #include <WiFi.h> es una librería que se basa en WiFi.h de la biblioteca Arduino WiFi Shield y que es compatible con WiFi esp32.
 Version 2.4
 
-•        
+•	La librería #include <PubSubClient.h> es una biblioteca para Arduino y plataformas compatibles que permite implementar el protocolo MQTT (Message Queuing Telemetry Transport). 
+Versiones 2.7
 
-
-
+•	La librería #include <DHT.h> es una biblioteca utilizada en proyectos de Arduino para interactuar con sensores de temperatura y humedad de la serie DHT, como el DHT11 y DHT22. 
+Versiones 1.40
 
 # Hardware empleado:
 | Nombre | Description | Imagen |
