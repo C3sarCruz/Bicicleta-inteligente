@@ -126,26 +126,40 @@ Criterios de aceptación:
 •	Comunicación entre el casto y la aplicación de Flutter. 
 
 
-# Prototipo
-Este proyecto consiste en un accesorio para los bicicletas con el fin de mejorar la experiencia y comodidad de los usuarios que practiquen ciclismo, convirtiendo un simple casco en uno capaz de leer su entorno, aprender de él y dar a los usuarios retroalimentación de su progreso. 
-La misión del proyecto es la de crear un accesorio práctico y simple de usar para que los usuarios puedan interactuar fácilmente con el Este proyecto contará con la instalación de un sensor de proximidad para determinar la distancia que hay entre el usuario que usa el casco y los objetos que se encuentran alrededor.
-Mensionado lo anterior se muestra un prototipo de nuestro producto en donde se plasma nuestro producto y el como esta diseñado, esto para generar un producto satisfactorio.
+# Prototipo del Dashboard
 
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/bicicleta.png)
+El prototipo del Dashboard en el cual se mostrará la lectura de los datos que los sensores capten, este dashboard es fácil de entender para los ciclistas, el dashboard tiene como finalidad ser atractivo para el usuario ya que es necesario generar una buena experiencia y para ello es necesario cumplir con los requerimientos. 
+El dashboard cuenta con graficas con los datos de los sensores y un button para los actuadores. Cada grafica estará cambiando los datos ya que estarán cambiando constantemente dependiendo del ambiente.
+
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/WhatsApp%20Image%202024-10-31%20at%2012.04.54%20PM.jpeg)
+
+# Prototipo del Wearable
+Prototipo del Wearable consiste en un casco el cual cuenta con sensores de humedad, gas, a proximidad y movimiento estos sensores generaran una lectura del ambiente en que se encuentre el ciclista y se mandara al dashboard. 
+También contara con cuatro actuadores un led, pantalla oled, potenciómetro y un buzzer que trabajaran de la mano con los sensores.
+
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Wearable.jpeg)
+
+# Beneficios del Casco Inteligente 
+Beneficios del casco inteligente. 
+•	Monitoreo del ambiente de un ciclista cuando realiza su actividad, para que la actividad sea más segura. 
+•	En el Dashboard se mostrarán los datos que los sensores mandarán para el ciclista los pueda visualizar y ver si se encuentra en peligro o algo de su ambiente cambio. 
+•	La creación de este casco inteligente es una gran oportunidad para poder automatizar el ciclismo haciendo lo más tecnológico y manteniendo a los que lo practican seguros.
 
 # Arquitectura
 La arquitectura en Capas.
 
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Arquitectura.png)
-
-* Esta arquitectura es la escojida debido ya que se dibide en capas y cada una de ellas tiene una tarea en espesifico y pueden ser capas independientes, es decir cada capa puede estar diseñada para una tarea especifica y entre laas capas pueden tener comunicación a travez de una interfaz bien definida.
-* Por ello se escogio esta arquitectura para el proyecto del casco inteligente ya que se podra dividir en modulos independiente y tener comunicación entre ellos, es decir;
+* Esta arquitectura es la escogida debida ya que se divide en capas y cada una de ellas tiene una tarea en específico y pueden ser capas independientes, es decir cada capa puede estar diseñada para una tarea especifica y entre las capas pueden tener comunicación a través de una interfaz bien definida.
+  
+* Por ello se escogió esta arquitectura para el proyecto del casco inteligente ya que se podrá dividir en módulos independiente y tener comunicación entre ellos, es decir;
+  
 * En la primera capa llamada Modelo: Se define qué datos deben contener la aplicación. Si el estado de estos datos cambia, el modelo generalmente notificará a la vista (para que la pantalla pueda cambiar según sea necesario) y, a veces, el controlador (si se necesita una lógica diferente para controlar la vista actualizada).
-* Es decir aquí entra el circuito con todos sus sensores ya que ellos nos proporcionaran la lectura del ambiente y la mostrara en la vista al usuario de una manera en la que el usuario pueda visualizarla estructrada y entendrible. Cada sensor mostrara lecturas diferentes como son; la temperatura, distancia, velocidad entre otras mas y asi se creara la primera capa de modelo. En este modelo entra tambien la base de datos ya que en ella se guardaran todos los datos recolectados por los sensores y estos datos seran enviados a la vista.
-* En la segunda capa llamada Vista: La vista define cómo se deben mostrar los datos de la aplicación. En esta capa se mostrara en Dashboard que sera desarrollado para que pueda mostrar los datos que los sensores leyeron del ambiente al cual seran expuestos, en esta capa se mostraran todos los datos estructurados que seran llamados de la base de datos para que puedan ser leidos de forma por el usuario y puedan entenderlos.
-* La tercera capa llamada Controlador: El controlador contiene una lógica que actualiza el modelo y/o vista en respuesta a las entradas de los usuarios de la aplicación. En este se conectan las capas anteriores ya que cada una tiene una tarea diferente pero que conjuntas forman en producto, en el controlador creara que la funcionalidad de cada capa formen en sistema. Esta en la comunicación que se tendra mediante red mqtt facilita a los desarrolladores el cifrado de mensajes y la autenticación de dispositivos y usuarios mediante protocolos de autenticación modernos.
-
-
+  
+* Es decir aquí entra el circuito con todos sus sensores ya que ellos nos proporcionaran la lectura del ambiente y la mostrara en la vista al usuario de una manera en la que el usuario pueda visualizarla estructurada y entendible. Cada sensor mostrara lecturas diferentes como son; la temperatura, distancia, velocidad entre otras más y así se creará la primera capa de modelo. En este modelo entra también la base de datos ya que en ella se guardarán todos los datos recolectados por los sensores y estos datos serán enviados a la vista.
+  
+* En la segunda capa llamada Vista: La vista define cómo se deben mostrar los datos de la aplicación. En esta capa se mostrará en Dashboard que será desarrollado para que pueda mostrar los datos que los sensores leyeron del ambiente al cual serán expuestos, en esta capa se mostraran todos los datos estructurados que serán llamados de la base de datos para que puedan ser leídos de forma por el usuario y puedan entenderlos.
+  
+* La tercera capa llamada Controlador: El controlador contiene una lógica que actualiza el modelo y/o vista en respuesta a las entradas de los usuarios de la aplicación. En este se conectan las capas anteriores ya que cada una tiene una tarea diferente pero que conjuntas forman en producto, en el controlador creara que la funcionalidad de cada capa forme en sistema. Esta en la comunicación que se tendrá mediante red mqtt facilita a los desarrolladores el cifrado de mensajes y la autenticación de dispositivos y usuarios mediante protocolos de autenticación modernos.
+  
 # Tablero Trello
 
 + Sprint 1. Se genero el primer spring con la integración de la placa esp32 para poder agregar las funcionalidades del sensor ultrasónico, esta placa es provisional, ya que será sustituida por una Pantalla tactil ESP32.
@@ -156,24 +170,26 @@ La arquitectura en Capas.
 + ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Trello3.jpg)
 
 # Circuito diseñado para el proyecto completo
-En el siguiente circuito se muestra como estara diseñado nuestro circuito para el casco inteligente, en el cual se muestran todos los sensores mencionados anteriormente que tendran como objetivo generar un producto de calidad y que pueda satisfacer las necesidades de nuestros usuarios ciclistas
+En el siguiente circuito se muestra como estará diseñado nuestro circuito para el casco inteligente, en el cual se muestran todos los sensores mencionados anteriormente que tendrán como objetivo generar un producto de calidad y que pueda satisfacer las necesidades de nuestros usuarios ciclistas.
 
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/circuito.png)
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/nodemcu-esp32.jpg)
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/circuito%20.jpeg)
+
 
 # Resultados 
-Spring 1. Se agrego la funcionalidad del sensor ultrasónico y Buzzer con su led. Como resultado esperado, el sensor ultrasonico tiene que tener la funcionalidad medir la distancia que existe entre un objeto contando el tiempo entre la emisión y la recepción. por otro lado en Buzzer produce un sonido o zumbido continuo o intermitente de un mismo tono, que su funcion es una alarma que sera actividad dependiendo de lo serca que este un objeto al igual que el led funcionara como una alerta, los 3 son un consjunto para una funcionalidad efectiva.
+**SPRINT 1 - HU1 - Desarrollo del Dashboard (Aplicación).** 
 
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Sprint%201%20fisico.jpg)
-![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Sprint1fisico.jpg)
+**SPRITN 2 - HU2 – Desarrollo del circuito.**  
+
+**SPRINT 3 - HU3 – Integración del Dashboard y Circuito.** 
 
 # Resultados esperados del proyecto completo
-El casco inteligentes, ofrecen una serie de resultados esperados para los ciclistas. A continuación, se presentan algunos de estos resultados:
+El casco inteligente, ofrecen una serie de resultados esperados para los ciclistas. A continuación, se presentan algunos de estos resultados:
 
-* Optimización del rendimiento: El casco inteligentes está diseñada para ayudar a los ciclistas a optimizar su rendimiento. Este casco utiliza sensores y actuadores llamados dispositivos inteligentes esto para proporcionar una experiencia satisfactoria, permitiendo a los ciclistas entrenar.
+* Optimización del rendimiento: El casco inteligente está diseñada para ayudar a los ciclistas a optimizar su rendimiento. Este casco utiliza sensores y actuadores llamados dispositivos inteligentes esto para proporcionar una experiencia satisfactoria, permitiendo a los ciclistas entrenar.
 * Datos en el Dashboard: El casco inteligente contara con un panel en el cual se mostrarán los datos se los sensores. Es importante asegurarse de que el software que se va a utilizar sea compatible con el casco inteligente seleccionada
 
-En resumen, el casco inteligentes ofrecen la posibilidad de optimizar el rendimiento, entrenar y disfrutar de una experiencia. 
+En resumen, el casco inteligente ofrecen la posibilidad de optimizar el rendimiento, entrenar y disfrutar de una experiencia.
+
 
 
 
