@@ -97,6 +97,7 @@ Versiones 1.40
 | Pantalla OLED   | Ofrecen ángulos de visión más amplios, lo que permite mostrar el contenido de la pantalla a varias personas a la vez.  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/OLED.webp) | 
 | Sensor PIR | Los sensores infrarrojos pasivos (PIR) son dispositivos para la detección de movimiento. Son baratos, pequeños, de baja potencia, y fáciles de usar. Por esta razón son frecuentemente usados en juguetes, aplicaciones domóticas o sistemas de seguridad.  | ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/PIR.webp) | 
 |Potenciómetro  | Un potenciómetro es un componente electrónico que sirve para controlar y ajustar la resistencia eléctrica en un circuito.  | ![](https://raw.githubusercontent.com/C3sarCruz/Bicicleta-inteligente/refs/heads/main/potenciometro.webp) | 
+|Casco de ciclismo |Un casco de ciclismo es un elemento de seguridad diseñado para proteger la cabeza del ciclista en caso de un accidente| ![](https://raw.githubusercontent.com/C3sarCruz/Bicicleta-inteligente/refs/heads/main/Casco.webp) | 
 
 
 # Historias de usuario:
