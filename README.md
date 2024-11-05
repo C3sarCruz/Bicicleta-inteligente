@@ -181,9 +181,9 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 ## Grafica de datos con sensor OLED practica 2
 [ver](https://drive.google.com/file/d/1nB5p71sOEigO1bUYE8ZnHzS_9x7-Deo-/view?usp=sharing)
 ## Practicas Flutter
-[gauge_mqtt_app](https://drive.google.com/drive/folders/1nOpVYEf7xmachF1aw7Ip6l0YF3OC7gDV?usp=sharing)
-[LineChart](https://drive.google.com/drive/folders/1nOpVYEf7xmachF1aw7Ip6l0YF3OC7gDV?usp=sharing)
-[mqtt_humidity_level](https://drive.google.com/drive/folders/1nOpVYEf7xmachF1aw7Ip6l0YF3OC7gDV?usp=sharing)
+[gauge_mqtt_app](https://drive.google.com/drive/folders/1nOpVYEf7xmachF1aw7Ip6l0YF3OC7gDV?usp=sharing)  <br>
+[LineChart](https://drive.google.com/drive/folders/1nOpVYEf7xmachF1aw7Ip6l0YF3OC7gDV?usp=sharing)  <br>
+[mqtt_humidity_level](https://drive.google.com/drive/folders/1nOpVYEf7xmachF1aw7Ip6l0YF3OC7gDV?usp=sharing) <br>
 ## Evidencias
 [Ver](https://drive.google.com/file/d/1nP0npfmdqdznwKJe5nZScpQlwpOClUHF/view?usp=sharing)
 
@@ -193,9 +193,9 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 ## Grafica de datos con sensor OLED practica 2
 [ver]()
 ## Practicas Flutter
-[gauge_mqtt_app]() <br>
-[LineChart]()  <br>
-[mqtt_humidity_level]() <br>
+[gauge_mqtt_app]() 
+[LineChart]()  
+[mqtt_humidity_level]() 
 ## Evidencias 
 [Ver])
 
