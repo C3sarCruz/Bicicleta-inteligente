@@ -174,6 +174,11 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/circuito%20.jpeg)
 
+# Maria Guadalupe Puente Gonzalez.
+	
+
+# Cesar Guerrero Cruz.
+
 
 # Resultados 
 **SPRINT 1 - HU1 - Desarrollo del Dashboard (Aplicación).** 
