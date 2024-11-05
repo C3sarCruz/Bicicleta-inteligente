@@ -162,11 +162,11 @@ La arquitectura en Capas.
   
 # Tablero Trello
 
-+ Sprint 1. Se genero el primer spring con la integración de la placa esp32 para poder agregar las funcionalidades del sensor ultrasónico, esta placa es provisional, ya que será sustituida por una Pantalla tactil ESP32.
++ Sprint 1. Se genero el primer spring con la integración de la placa esp32 para poder agregar las funcionalidades del sensor ultrasónico, esta placa es provisional, ya que será sustituida por una Pantalla tactil ESP32.  <br>
  ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Trello1.jpg)
-+ Sprint 2. El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo).
++ Sprint 2. El desarrollo del circuito el cual sera el responsable de leer el comportamiento que se tiene al momento de realizar la actividad fisica (ciclismo).  <br>
  ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Trello2.jpg)
-+ Sprint 3. Que tanto el dashboard como el circuito tengan comunicación para que puedan cumplir con su objetivo y la integracion de la pantalla inteligente.
++ Sprint 3. Que tanto el dashboard como el circuito tengan comunicación para que puedan cumplir con su objetivo y la integracion de la pantalla inteligente.  <br>
  ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Trello3.jpg)
 
 # Circuito diseñado para el proyecto completo
