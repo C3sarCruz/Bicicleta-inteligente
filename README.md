@@ -174,10 +174,12 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/circuito%20.jpeg)
 
-# Maria Guadalupe Puente Gonzalez.
-	
+# Actividades de la unidad 3
+ **Maria Guadalupe Puente Gonzalez.
 
-# Cesar Guerrero Cruz.
+ **Cesar Guerrero Cruz.
+
+	
 
 
 # Resultados 
