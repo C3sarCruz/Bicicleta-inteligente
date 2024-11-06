@@ -200,11 +200,8 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 
 
 # Resultados 
-**SPRINT 1 - HU1 - Desarrollo del Dashboard (Aplicación).** 
-
-**SPRITN 2 - HU2 – Desarrollo del circuito.**  
-
-**SPRINT 3 - HU3 – Integración del Dashboard y Circuito.** 
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/RE2.jpeg)
+![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Re1.jpeg)
 
 # Resultados esperados del proyecto completo
 El casco inteligente, ofrecen una serie de resultados esperados para los ciclistas. A continuación, se presentan algunos de estos resultados:
