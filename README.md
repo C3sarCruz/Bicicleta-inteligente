@@ -174,7 +174,7 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/circuito%20.jpeg)
 
 # Actividades de la unidad 3
- ** + Maria Guadalupe Puente Gonzalez.**
+  + Maria Guadalupe Puente Gonzalez.
 #### Grafica de datos con sensor OLED practica 1
 [ver](https://drive.google.com/file/d/1C6a-cch2FzoQAacuS4j9qAbKviuR0Ruk/view?usp=sharing)
 #### Grafica de datos con sensor OLED practica 2
@@ -187,15 +187,15 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 [Ver](https://drive.google.com/file/d/1nP0npfmdqdznwKJe5nZScpQlwpOClUHF/view?usp=sharing)
 
   + Cesar Guerrero Cruz.
-## Grafica de datos con sensor OLED practica 1
+#### Grafica de datos con sensor OLED practica 1
 [ver]()
-## Grafica de datos con sensor OLED practica 2
+#### Grafica de datos con sensor OLED practica 2
 [ver]()
-## Practicas Flutter
+#### Practicas Flutter
 [gauge_mqtt_app]() 
 [LineChart]()  
 [mqtt_humidity_level]() 
-## Evidencias 
+#### Evidencias 
 [Ver])
 
 
