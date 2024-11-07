@@ -188,34 +188,30 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 
   + Cesar Guerrero Cruz.
 #### Grafica de datos con sensor OLED practica 1
-[ver]()
+[ver](https://drive.google.com/file/d/1cGu0C7pDM8U5B7y3fnZQ6H8nGjOlvB1Q/view)
 #### Grafica de datos con sensor OLED practica 2
-[ver]()
+[ver](https://drive.google.com/file/d/1gGCfSoauOy6wxMKhT0CSeqy0QMiPydCN/view)
 #### Practicas Flutter
-[gauge_mqtt_app]() <br>
-[LineChart]()  <br>
-[mqtt_humidity_level]() <br>
+[gauge_mqtt_app](https://drive.google.com/file/d/1AoLHM9b5EPYFkV_iBzZaDx2pcgbCqtuG/view?usp=sharing) <br>
+[LineChart](https://drive.google.com/file/d/1BrTuryyQ4Zu-1RXIfTP8a6u1MtTktj1z/view?usp=sharing)  <br>
+[mqtt_humidity_level](https://drive.google.com/file/d/1WsO_K1hIhh5bxweKdxqAwPpg2x8T5RM1/view?usp=sharing) <br>
 #### Evidencias 
-[Ver])
+[Ver]()
 
 
-# Resultados Resultados esperados del proyecto completo
+# Resultados esperados del proyecto completo
 [Flujos de Node-Red](https://drive.google.com/drive/folders/1UjEQquS38g8BO0MiA8q29hteVknabmL3?usp=sharing) <br>
 [Evidencias de la comunicación MQTT](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Comunicaci%C3%B3n%20MQTT.pdf) <br>
-[Dashboard en Flutter]() <br>
+[Dashboard en Flutter](https://drive.google.com/file/d/172xUWRuDrl2m-_JkmVI7syH_M6_t16RN/view?usp=sharing) <br>
 [Codigo Arduino IDE para ESP32](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/BICICLETA_CODE_INO_2.ino) <br>
+[Casco Inteligente]() <br>
 ## Evidencias del casco
 [Video demostrativo](https://drive.google.com/file/d/1UWW_EsghYk4_XXDiCCLpOHBVUQ6JTdXP/view?usp=sharing)
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/RE2.jpeg)
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Re1.jpeg)
 
-# Resultados esperados del proyecto completo
-El casco inteligente, ofrecen una serie de resultados esperados para los ciclistas. A continuación, se presentan algunos de estos resultados:
 
-* Optimización del rendimiento: El casco inteligente está diseñada para ayudar a los ciclistas a optimizar su rendimiento. Este casco utiliza sensores y actuadores llamados dispositivos inteligentes esto para proporcionar una experiencia satisfactoria, permitiendo a los ciclistas entrenar.
-* Datos en el Dashboard: El casco inteligente contara con un panel en el cual se mostrarán los datos se los sensores. Es importante asegurarse de que el software que se va a utilizar sea compatible con el casco inteligente seleccionada
 
-En resumen, el casco inteligente ofrecen la posibilidad de optimizar el rendimiento, entrenar y disfrutar de una experiencia.
 
 
 
