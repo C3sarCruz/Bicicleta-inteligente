@@ -196,7 +196,7 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 [LineChart](https://drive.google.com/file/d/1BrTuryyQ4Zu-1RXIfTP8a6u1MtTktj1z/view?usp=sharing)  <br>
 [mqtt_humidity_level](https://drive.google.com/file/d/1WsO_K1hIhh5bxweKdxqAwPpg2x8T5RM1/view?usp=sharing) <br>
 #### Evidencias 
-[Ver]()
+[Ver](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Evidencias%20.pdf)
 
 
 # Resultados esperados del proyecto completo
