@@ -200,11 +200,11 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 
 
 # Resultados Resultados esperados del proyecto completo
-![Flujos de Node-Red]()
-![Evidencias de la comunicación MQTT]()
-![Dashboard en Flutter]()
-![Codigo Arduino IDE para ESP32]()
-![]()
+[Flujos de Node-Red]() <br>
+[Evidencias de la comunicación MQTT]() <br>
+[Dashboard en Flutter]() <br>
+[Codigo Arduino IDE para ESP32]() <br>
+[]()
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/RE2.jpeg)
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Re1.jpeg)
 
