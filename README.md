@@ -200,12 +200,16 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 
 
 # Resultados esperados del proyecto completo
+Casco Inteligente: Nuestro proyecto esta desarrollado para poder detectar la humedad, humo, distancia y movimiento del ambiente, el producto fue probado y validado por un usuario que utiliza su bicicleta como medio de transporte para moverse a diferentes sitios generando así el ciclismo. 
+Nuestro producto fue capas de leer los datos del ambiente para el cual fue generado y con ello poner en alerta al usuario para que pueda estar alerta a su alrededor y así generar su actividad de una manera segura y efectiva. 
+
 [Flujos de Node-Red](https://drive.google.com/drive/folders/1UjEQquS38g8BO0MiA8q29hteVknabmL3?usp=sharing) <br>
 [Evidencias de la comunicación MQTT](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Comunicaci%C3%B3n%20MQTT.pdf) <br>
 [Dashboard en Flutter](https://drive.google.com/file/d/172xUWRuDrl2m-_JkmVI7syH_M6_t16RN/view?usp=sharing) <br>
 [Codigo Arduino IDE para ESP32](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/BICICLETA_CODE_INO_2.ino) <br>
-[Casco Inteligente]() <br>
+[Casco Inteligente](https://drive.google.com/file/d/1ur9jYEjFiJkYIf8sgvF_sZRfNzdmZ28k/view?usp=sharing) <br>
 ## Evidencias del casco
+En el video demostrativo se muestra como nuestro usuario utiliza nuestro casco inteligente para probar si cumple con lo requerido.
 [Video demostrativo](https://drive.google.com/file/d/1UWW_EsghYk4_XXDiCCLpOHBVUQ6JTdXP/view?usp=sharing)
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/RE2.jpeg)
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Re1.jpeg)
