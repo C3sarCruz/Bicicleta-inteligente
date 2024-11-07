@@ -203,8 +203,8 @@ En el siguiente circuito se muestra como estará diseñado nuestro circuito para
 [Flujos de Node-Red](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Flujos%20Node-Red.zip) <br>
 [Evidencias de la comunicación MQTT](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Comunicaci%C3%B3n%20MQTT.pdf) <br>
 [Dashboard en Flutter]() <br>
-[Codigo Arduino IDE para ESP32]() <br>
-[]()
+[Codigo Arduino IDE para ESP32](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/BICICLETA_CODE_INO_2.ino) <br>
+## Evidencias del casco
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/RE2.jpeg)
 ![](https://github.com/C3sarCruz/Bicicleta-inteligente/blob/main/Re1.jpeg)
 
